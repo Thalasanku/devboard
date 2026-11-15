@@ -1,4 +1,4 @@
-#  Build the image for docker frontend and push to docker hub
+# # Build the image for docker frontend and push to docker hub
 
 name: CI
 
